@@ -1,7 +1,7 @@
 ---
 spec_id: 001-persistent-tasks-in-postgres-with-a-web
 title: Persistent tasks in Postgres with a web task list
-status: draft
+status: approved
 priority: P1
 shape: gitops-app
 ---
@@ -61,3 +61,4 @@ As a team member, I want to add a task with a title and an optional due date fro
 ## Changelog
 
 - 2026-11-16 created
+- 2026-11-16 approved
